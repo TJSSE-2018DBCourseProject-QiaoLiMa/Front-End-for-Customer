@@ -15,7 +15,7 @@ export default new Router({
             meta: { title: '自述文件' },
             children:[
                 {
-                    path: '/passengersearch',
+                    path: '/Passengersearch',
                     component: resolve => require(['../components/page/CustomerSearch/PassengerTransportSearch.vue'], resolve),
                     meta: { title: '客运查询' }
                 },

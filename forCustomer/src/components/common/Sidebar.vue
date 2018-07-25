@@ -30,9 +30,9 @@
                 collapse: false,
                 items: [
                     {
-                        icon: 'el-icon-setting',
+                        icon: 'el-icon-search',
                         index: '2',
-                        title: '查询',
+                        title: '我要订票',
                         subs: [
                             {
                                 index: 'passengersearch',
